@@ -14,5 +14,5 @@ Thank you!
 
 
 ###Hao Chen 
-###DEC. 19 2015
-###EMAIL:chenh15@rpi.edu
+###Dec. 19 2015
+###Email:chhao.rpi@gmail.com
