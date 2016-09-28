@@ -1,18 +1,9 @@
 # My-code-Samples
 
-My name is Hao (Henry) Chen, Candidate of MS Information Technology & Web Science and 
-graduate of MS Quantitative Finance and Risk Analytics in Rensselaer Polytechnic Institute. 
-
-My primary programming language is C/C++. I also am familiar with Linux Bash and windows command 
-prompt. Besides, I am good at a couple of database languages including MySQL, PL/SQL, JDBC, MongoDB.
-And my understanding of data structure and algorithm qualifies me as a software developer.
-
-This depository contains my codes in school and some are from personal interests like coding competitions,
-interviews etc. 
+I am currently a graduate student in the Information Technology major (concentration in Software Design and Engineering) at Rensselaer Polytechnic Institute and plan to graduate with a Master of Science in December 2016. I consider myself as a highly capable Software Engineer. Complementing my diverse skill set, I have developed an excellent understanding of a wide range of programming languages and tools. I am a self-starter and excel at analysis, design, and documentation. Additionally, I am deeply familiar with Agile/ Scrum methodology and adapt quickly to new procedures. I am also a Computer Science graduate teaching assistant for two courses: Operating Systems and Principle of Software, in which I provide help for over 100 students in each course. 
 
 Thank you!
 
 
 ###Hao Chen 
-###Dec. 19 2015
-###Email:chhao.rpi@gmail.com
+###Email:hchen.rpi@gmail.com
